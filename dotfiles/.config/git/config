@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = main
+[user]
+	email = pedromayoral@proton.me
+	name = peMayoral
+[color]
+	branch = auto
+	diff = auto
+	status = auto
+	ui = auto
